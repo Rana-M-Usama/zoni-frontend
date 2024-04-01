@@ -1,0 +1,13 @@
+.primary-color {
+  color: #004a93 !important;
+}
+
+.secondary-color {
+  color: #00529b !important;
+}
+
+.text-underline {
+  text-decoration: underline;
+  text-decoration-color: #004a93;
+}
+

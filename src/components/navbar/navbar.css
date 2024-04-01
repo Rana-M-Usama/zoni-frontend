@@ -1,0 +1,31 @@
+.navbar-padding {
+  padding: 27px 29px !important;
+}
+
+.signin-btn {
+  border: 1px solid #00529b !important;
+}
+
+.signin-btn:hover {
+  background-color: #00529b !important;
+  color: white !important;
+}
+
+
+@media (max-width: 1000px) {
+  .navbar-padding {
+    padding: 27px 0px !important;
+  }
+
+  .text-size{
+    font-size: 10px;
+  }
+}
+@media (max-width: 1030px) {
+  .nav-text-size{
+    font-size: 14px;
+  }
+}
+
+
+
